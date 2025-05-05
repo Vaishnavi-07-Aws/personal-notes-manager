@@ -2,7 +2,7 @@
 
 ## 1. Backend - `.env` File
 
-Create a file named `.env` in the `backend/` directory with the following content:
+A file named `.env` in the `backend/` directory with the following content:
 
 ```
 PORT=5000
@@ -16,7 +16,7 @@ JWT_SECRET=your_jwt_secret_key
 
 ## 2. Hardcoded Credentials (if any)
 
-There are no hardcoded credentials in the repository. For development/testing purposes, you may register a user using the frontend or use the following dummy credentials **after manual registration**:
+There are no hardcoded credentials in the repository. For development/testing purposes, we may register a user using the frontend or use the following dummy credentials **after manual registration**:
 
 - **Email:** test@example.com
 - **Password:** Test@123
@@ -63,5 +63,3 @@ There are no hardcoded credentials in the repository. For development/testing pu
 > The frontend will be accessible at `http://localhost:3000`.
 
 ---
-
-Please reach out if a hosted version or Postman collection is required.
